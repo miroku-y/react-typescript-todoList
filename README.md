@@ -6,4 +6,4 @@
 2.npm run dev   
 
 ### 效果图
-![](https://github.com/yangdongMC/react-typescript-todoList/blob/master/src/assets/ts.png)
+<img src="https://github.com/yangdongMC/react-typescript-todoList/blob/master/src/assets/ts.png" width="375" alt='todoList'>  
