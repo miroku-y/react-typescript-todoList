@@ -1,0 +1,21 @@
+.primary{
+  background-color: #2e6da4;
+  color: #fff;
+  border: 1px solid #2e6da4;
+  border-radius: 4px;
+  font-size: 12px;
+}
+.default{
+  background-color: #ffffff;
+  color: #aaa;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  font-size: 12px;
+}
+.danger{
+  background-color: red;
+  color: #fff;
+  border: 1px solid red;
+  border-radius: 4px;
+  font-size: 12px;
+}

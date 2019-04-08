@@ -1,0 +1,35 @@
+.app  h2{
+    text-align:center;
+  }
+.app form input{
+  border: 1px solid #aaa;
+  line-height: 2rem;
+  width: 70%;
+  border-radius: 8px;
+}
+.btn{
+  width: 20%;
+  line-height: 2rem;
+  text-align: center;
+  border: 0 solid #aaa;
+  border-radius: 8px;
+  background-color: #44f68eeb;
+  color: #111;
+  cursor: pointer;
+}
+.app form {
+  display:flex;
+  justify-content: space-around;
+
+}
+.task_item{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95.5%;
+  margin: 0.5rem auto;
+  border-bottom: 1px dashed #aaa;
+}
+.app section{
+  margin-top:2rem;
+}
